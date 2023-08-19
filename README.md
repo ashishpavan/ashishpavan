@@ -4,8 +4,6 @@
 
 - 📫 Developers can reach out to me on my <a href="https://www.linkedin.com/in/pavan-agarwal-0364a5144/" target="_blank">LinkedIn</a> here
   and other fun collaborations on my <a href= "https://twitter.com/PAVANAG89702666/" target= "_blank" > Twitter(X) </a> account here. <br>
-  
-- 😄 Pronouns: He/Him <br>
 
 - ⚡ Fun fact: I like Data science/ Data engineering/ Data analyst <br> 
 
