@@ -1,7 +1,3 @@
-
-
-- 🔭 I’m currently a Masters Science Student at UW Madison. <br>
-
 - 🔭 I am Pavan Agarwal, currently a Masters's Science Student at the **University of Wisconsin-Madison**. <br>
 
 - 👯 I’m looking to collaborate on anything related to **AWS/Azure Cloud** and it's uses in processing data and building scalable applications <br>
